@@ -1,4 +1,4 @@
-|   Muhammad Ikwanur Dimas Fauzi   |       312010388           |
+|   Rayhan Ilham Ramanda  |       312010390          |
 | --------------------- | --------------------------|
 |            TI.20.A.2             |      PEMROGRAMAN WEB      |
 |            PERTEMUAN KE-6        |       PRAKTIKUM 5         |
