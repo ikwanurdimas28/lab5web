@@ -1,7 +1,7 @@
-|   Firman Maulana        |       312010252           |
+|   Muhammad Ikwanur Dimas Fauzi   |       312010252           |
 | --------------------- | --------------------------|
-| TI.20.A.2             |      PEMROGRAMAN WEB      |
-| PERTEMUAN KE-6        |       PRAKTIKUM 5         |
+|            TI.20.A.2             |      PEMROGRAMAN WEB      |
+|            PERTEMUAN KE-6        |       PRAKTIKUM 5         |
 
 
 ## PERTEMUAN 6
